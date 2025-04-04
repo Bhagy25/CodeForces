@@ -1,0 +1,1 @@
+rotate(v.begin(),v.begin()+(n-m-1),v.end());
